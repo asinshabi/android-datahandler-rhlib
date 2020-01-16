@@ -1,7 +1,7 @@
 # DataHandler
 [![](https://jitpack.io/v/asinshabi/android-datahandler-rhlib.svg)](https://jitpack.io/#asinshabi/android-datahandler-rhlib)
 
-Side library of RuntimeHandler libraries.
+Side library of RuntimeHandlers.
 
 ## Getting Started
 You have to follow these instructions to use library.
